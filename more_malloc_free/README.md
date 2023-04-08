@@ -1,0 +1,1 @@
+Malloc is a function in the standard C library that allows you to dynamically allocate memory. The release of the memory thus reserved is done with the free function. This function is declared in the <stdlib.h> header.
