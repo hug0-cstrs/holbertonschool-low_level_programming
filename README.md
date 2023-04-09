@@ -8,10 +8,10 @@ A low-level language is the language the machine understands. The machine langua
 - C files are written according to the `C89 standard`
 - Tested on `Ubuntu 20.04 LTS`
 
-# Files
-All of the following files are programs written in C :
+# Projects
+All of the following folders are projects done during the studies :
 
-|**Filename**|**Description**|
+|**Project name**|**Description**|
 |:-------|:---------:|
 |[`hello_world`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/hello_world)|It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language|
 |[`variables_if_else_while`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/variables_if_else_while)|It aims to learn about arithmetic operators, relational operators, boolean operators, comments, declaring variables and loops in C language|
@@ -26,13 +26,13 @@ All of the following files are programs written in C :
 |[`preprocessor`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/preprocessor)|It aims to learn about how to include guard in the header files and macros in C language|
 |[`structures_typedef`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/structures_typedef)|It aims to learn about structures and `typedef` in C language|
 |[`function_pointers`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/function_pointers)|It aims to learn about function pointers in C language|
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
+|[`variadic_functions`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/variadic_functions)|It aims to learn about variadic functions in C language|
+|[`singly_linked_lists`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/singly_linked_lists)|It aims to learn about linked lists in C language|
+|[`more_singly_linked_lists`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/more_singly_linked_lists)|It aims to learn about singly linked lists in C language|
+|[`bit_manipulation`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/bit_manipulation)|It aims to learn about how to manipulate bits and use bitwise operators in C language|
+|[`file_io`]()||
+|[`doubly_linked_lists`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/doubly_linked_lists)|It aims to learn about doubly linked list in C language|
+|[`hash_tables`]()||
+|[`makefiles`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/makefiles)|It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules)|
 
 
