@@ -18,14 +18,14 @@ All of the following files are programs written in C :
 |[`functions_nested_loops`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/functions_nested_loops)|It aims to learn about header files, functions, loops and nested loops in C language|
 |[`more_functions_nested_loops`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/more_functions_nested_loops)|It aims to learn about nested loops in C language|
 |[`pointers_arrays_strings`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/pointers_arrays_strings)|It aims to learn about pointers and arrays in C language|
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
-|[``]()||
+|[`recursion`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/recursion)|It aims to learn about recursion and how to implement it in C language|
+|[`static_libraries`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/static_libraries)|It aims to learn about static libraries in C language|
+|[`argc_argv`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/argc_argv)|It aims to learn about how to use arguments passed to a program in C language|
+|[`malloc_free`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/malloc_free)|It aims to learn about automatic and dynamic allocation in C language|
+|[`more_malloc_free`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/more_malloc_free)|It aims to learn about how to use `malloc`, `calloc`, `realloc` and `exit` functions in C language|
+|[`preprocessor`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/preprocessor)|It aims to learn about how to include guard in the header files and macros in C language|
+|[`structures_typedef`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/structures_typedef)|It aims to learn about structures and `typedef` in C language|
+|[`function_pointers`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/function_pointers)|It aims to learn about function pointers in C language|
 |[``]()||
 |[``]()||
 |[``]()||
