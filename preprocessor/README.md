@@ -5,6 +5,8 @@ What is preprocessor in C?
 
 In simple terms, a C Preprocessor is just a text substitution tool and it instructs the compiler to do required pre-processing before the actual compilation. We'll refer to the C Preprocessor as CPP. All preprocessor commands begin with a hash symbol (#).
 
+![Preprocessor](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Preprocessor-In-C.png)
+
 # Technologies
 - C files are compiled using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 - C files are written according to the `C89 standard`
