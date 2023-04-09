@@ -13,6 +13,6 @@ All of the following files are programs written in C :
 
 |**Filename**|**Description**|
 |:-------|:---------:|
-|[`hello_world`(https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/hello_world)]|It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language|
+|[`hello_world`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/hello_world)|It aims to learn about what is entry point, basics commands (puts, printf, putchar), compilation process with gcc in C language|
 
 
