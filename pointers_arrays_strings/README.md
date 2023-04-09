@@ -3,6 +3,8 @@ Project done during Software Engineering studies at `Holberton School`. It aims 
 - A pointer is a special variable that can contain the address of another variable. other variable.
 - In C, each pointer is limited to one data type. It can contain the address of a simple variable of this type or the address of a component of an array of this type.
 
+![Pointers, arrays and strings](https://res.cloudinary.com/practicaldev/image/fetch/s--26vBKTFB--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wejnqrnh866d8j4ho12h.png)
+
 # Technologies
 - C files are compiled using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 - C files are written according to the `C89 standard`
