@@ -1,6 +1,7 @@
 # Functions, nested loops
 Project done during Software Engineering studies at `Holberton School`. It aims to learn about header files, functions, loops and nested loops in `C language`.
 
+![Functions, nested loops flowchart](https://cdn.educba.com/academy/wp-content/uploads/2020/03/Nested-Loop-Flowchart.jpg)
 # Technologies
 - C files are compiled using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 - C files are written according to the `C89 standard`
