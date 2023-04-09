@@ -13,7 +13,7 @@ Project done during Software Engineering studies at `Holberton School`. It aims 
 # Files
 All of the following files are programs written in C :
 
-|Filename|Description|
+|**Filename**|**Description**|
 |:-------|:---------:|
 |`0-whatsmyname.c`|Prints its name|
 |`1-args.c`|Prints the number of arguments passed into it|
