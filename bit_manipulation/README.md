@@ -2,6 +2,8 @@
 Project done during Software Engineering studies at `Holberton School`. It aims to learn about how to manipulate bits and use bitwise operators in `C language`.
 Bit manipulation consists of acting on data at the level of a bit or a set of bits using Boolean operations.
 
+![Bit Manipulation GIF](https://files.realpython.com/media/and.ef7704d02d6f.gif) ![Bit Manipulation GIF](https://files.realpython.com/media/or.7f09664e2d15.gif)
+
 # Technologies
 - C files are compiled using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 - C files are written according to the `C89 standard`
