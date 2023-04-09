@@ -3,6 +3,8 @@ Wat is lower level in programming?
 
 A low-level language is the language the machine understands. The machine language. Every machine or computer comes with a specific assembly.  Low level languages are used to write programs that relate to the specific architecture and hardware of a particular type of computer.
 
+![C language logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw2sKU4A-rvbCPoy8jsMx5DS&ust=1681145018605000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODclq-fnf4CFQAAAAAdAAAAABAE)
+
 # Technologies
 - C files are compiled using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
 - C files are written according to the `C89 standard`
