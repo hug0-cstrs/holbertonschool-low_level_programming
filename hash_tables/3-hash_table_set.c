@@ -20,17 +20,6 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 	/* Initialise un pointeur à la position correspondante dans la table de hachage */
 	temp = ht->array[index];
 
-	while (temp != NULL)
-	{
-		/* Si la clé est trouvée, il met à jour la valeur associée */
-		if (strcmp(temp->key, key) == 0)
-		{
-			temp->value = strdup(value);
-			return (1);
-		}
-		temp = temp->next;
-	}
-
 	/* Si la clé n'existe pas encore, crée une nouvelle clé avec sa valeur*/
 	new = malloc(sizeof(hash_node_t));
 	if (new == NULL)
