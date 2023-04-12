@@ -32,9 +32,9 @@ All of the following folders are projects done during the studies :
 |[`singly_linked_lists`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/singly_linked_lists)|It aims to learn about linked lists in C language|
 |[`more_singly_linked_lists`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/more_singly_linked_lists)|It aims to learn about singly linked lists in C language|
 |[`bit_manipulation`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/bit_manipulation)|It aims to learn about how to manipulate bits and use bitwise operators in C language|
-|[`file_io`]()||
+|[`file_io`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/file_io)|It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in C language|
 |[`doubly_linked_lists`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/doubly_linked_lists)|It aims to learn about doubly linked list in C language|
-|[`hash_tables`]()||
+|[`hash_tables`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/hash_tables)|It aims to learn how to implement Hash Tables with C language|
 |[`makefiles`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/makefiles)|It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules)|
 
 
