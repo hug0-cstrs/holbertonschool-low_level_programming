@@ -10,26 +10,26 @@
 
 char *hash_table_get(const hash_table_t *ht, const char *key)
 {
-    unsigned long int index;
-    hash_node_t *temp;
+	unsigned long int index;
+	hash_node_t *temp;
 
-    if (ht == NULL || key == NULL)
-    {
-        return (NULL);
-    }
+	if (ht == NULL || key == NULL)
+	{
+		return (NULL);
+	}
 
-    index = key_index((const unsigned char *)key, ht->size);
-    temp = ht->array[index];
+	index = key_index((const unsigned char *)key, ht->size);
+	temp = ht->array[index];
 
-    if (temp == NULL)
-    {
-        return (NULL);
-    }
+	if (temp == NULL)
+	{
+		return (NULL);
+	}
 
-    while (strcmp(temp->key, key) != 0)
-    {
-        temp = temp->next;
-    }
+	while (strcmp(temp->key, key) != 0)
+	{
+		temp = temp->next;
+	}
 
-    return (temp->value);
+	return (temp->value);
 }
