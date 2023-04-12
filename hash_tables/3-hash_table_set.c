@@ -26,6 +26,7 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
         /* Si la clé est trouvée, il met à jour la valeur associée */
         if (strcmp(temp->key, key) == 0)
         {
+            free(temp->value);
             temp->value = strdup(value);
             return (1);
         }
@@ -39,7 +40,6 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
         return (0);
     }
     new->key = strdup(key);
-    new->value = strdup(value);
     new->next = NULL;
 
     /* Ajoute la nouvelle node en tête de liste, si la position était déjà occupée */
