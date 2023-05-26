@@ -36,4 +36,5 @@ All of the following folders are projects done during the studies :
 |[`doubly_linked_lists`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/doubly_linked_lists)|It aims to learn about doubly linked list in C language|
 |[`hash_tables`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/hash_tables)|It aims to learn how to implement Hash Tables with C language|
 |[`makefiles`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/makefiles)|It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules)|
+|[`search_algorithms`](https://github.com/hug0-cstrs/holbertonschool-low_level_programming/tree/master/search_algorithms)|It aims to learn about search algorithms(Linear Search, Binary Search) and Big O Notation in C language|
 
